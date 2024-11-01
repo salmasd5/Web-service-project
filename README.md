@@ -3,7 +3,14 @@ This project is a RESTful web service built with Java, Spring Boot, and Jersey. 
 DEMO JSON(Postman)
 
 
-https://github.com/user-attachments/assets/40a8d689-744d-4ad6-8dbd-d7f182003174
+
+
+
+
+https://github.com/user-attachments/assets/e2f5d506-00ea-4e56-bca6-d1e0ccb41e9d
+
+
+
 
 DEMO XML(Postman)
 
